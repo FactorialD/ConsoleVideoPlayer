@@ -1,0 +1,6 @@
+﻿  EasyBMP.cpp
+  IhorTest.cpp
+  Source.cpp
+  Создание кода...
+G:\VisualStudioProjects\IhorTest\IhorTest\EasyBMP.cpp(994,13): warning C4101:  ZeroWORD: неиспользованная локальная переменная
+  IhorTest.vcxproj -> G:\VisualStudioProjects\IhorTest\Debug\IhorTest.exe
